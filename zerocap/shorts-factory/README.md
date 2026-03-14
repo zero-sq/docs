@@ -113,11 +113,25 @@ animal or character archetype whose natural appearance already shares visual DNA
 object. The object's colors, patterns, and shapes should suggest the animal. Examples:
 - Caramel macchiato → raccoon (brown/cream banding = coffee/milk layers)
 - Burger → round bird (plump shape, warm browns, sesame bun = head cap)
-- Coke Zero → beetle or penguin (black body, red accents)
+- Coke Zero → penguin (black/white tuxedo = can branding)
 
 The best pets feel like the animal was *born* to represent that object.
 
-**Step 2 — Write the prompt.**
+**Step 2 — Build the creature profile.** Before writing the image prompt, define the
+character. This gives the image gen tool a *personality* to work with, not just a
+description.
+
+```
+Name:       [Creature name — short, fun, memorable. e.g., Fizzguin, Splashduck]
+Type:       [Elemental type tied to the object's world. e.g., Cold, Water, Fire, Snack]
+Personality:[One line — what's its vibe? e.g., "Too cool to care, always leaning back"]
+Pose:       [What is it DOING? Not just standing. e.g., "Mid-splash", "Sipping casually"]
+Signature:  [One clever detail that makes people go "wait, that's smart"]
+```
+
+This profile feeds the image prompt AND the game screen overlay (pet name + Lv.1 badge).
+
+**Step 3 — Write the prompt.**
 
 The core aesthetic blends three pillars into one style:
 - **Plushie** — tactile, collectible, "I want to buy this as a real toy"
@@ -132,6 +146,11 @@ animal, what materials, what details. The object drives those decisions.
 A cute collectible 3D plush [ANIMAL/CREATURE TYPE] inspired by a [OBJECT]. Designed to
 feel like a real toy you'd find on a shelf — tactile, huggable, premium build quality.
 
+[PERSONALITY + POSE: describe what the creature is doing and what attitude it has — this
+is what gives the image life. e.g., "leaning back casually with a condensation droplet
+sliding down its cheek" or "mid-splash with wings out, looking mischievous". Don't default
+to standing still].
+
 The [ANIMAL]'s body incorporates the [OBJECT]'s materials, textures, and colors into its
 design. [MATERIAL/TEXTURE DIRECTION: describe how the object's visual identity shows up
 on the creature — this could be through surface materials (craft plushie approach), through
@@ -140,18 +159,21 @@ environmental details, or any creative combination. Let the object guide what fe
 Every pet should have its own unique approach — don't repeat the same formula].
 
 Big glossy expressive eyes with bright catchlight reflections (not solid dark — should feel
-warm and alive), round body, chibi proportions, stubby limbs — the kind of face that makes
-kids (and adults) say "I need this." One or two small accent details from
-the object's world — [DETAIL CUES]. Color palette is cohesive, derived from the [OBJECT]'s
-natural colors. Soft lighting, clean white background. Front 3/4 view.
+warm and alive), [EXPRESSION: match the personality — mischievous? sleepy? excited?].
+Round body, chibi proportions, stubby limbs — the kind of face that makes kids (and adults)
+say "I need this." One unexpected clever detail that makes people look twice —
+[SIGNATURE DETAIL]. Color palette is cohesive, derived from the [OBJECT]'s natural colors.
+Soft lighting, clean white background.
 ```
 
 **Guiding principles:**
-- The object drives everything — animal choice, materials, palette. Not the template.
+- The object drives everything — animal choice, materials, palette, personality. Not the template.
 - Do NOT repeat the same formula across pets. Each one should feel like its own creative
   decision.
 - The best result is one where someone sees the pet and *immediately* knows what object it
   came from, without being told.
+- Every pet needs a personality, not just an appearance. If it could be swapped with another
+  pet and nobody would notice, it's not distinct enough.
 - Target emotion: "I want to collect all of these." If it doesn't trigger that, rethink it.
 
 ### Camera screen photo (Nano Banana)

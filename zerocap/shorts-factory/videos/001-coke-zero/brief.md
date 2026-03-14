@@ -12,27 +12,39 @@ A Coke Zero can (330ml, standard red-and-black design)
 **Animal choice:** Penguin — black-and-white tuxedo body maps naturally to Coke Zero's
 black can with silver/white accents. Round, stubby, iconic silhouette.
 
+**Creature profile:**
+```
+Name:        Fizzguin
+Type:        Cold
+Personality: Too cool to care. Effortlessly chill, slight smirk, zero stress.
+Pose:        Leaning back casually, one flipper resting behind its head.
+Signature:   A single condensation droplet sliding down its cheek like a cool sweat bead.
+```
+
 ```
 A cute collectible 3D plush penguin inspired by a Coke Zero can. Designed to feel like a
 real toy you'd find on a shelf — tactile, huggable, premium build quality.
 
-The penguin's black plush body has a subtle metallic sheen like brushed aluminum. Its white
-belly patch carries faint embossed swoosh markings in cherry red, echoing the can's label.
-The flippers have a smooth, cool-to-the-touch vinyl texture like the surface of a real can.
-A tiny ring-pull tab hangs from one ear like a charm. Condensation beads — tiny clear resin
-droplets — cluster on its forehead and shoulders as if it just came out of a cold fridge.
+The penguin is leaning back casually with one flipper resting behind its head, looking
+effortlessly chill with a slight smirk. Too-cool-for-school energy.
 
-Big glossy expressive eyes with bright catchlight reflections, round body, chibi
-proportions, stubby limbs. Color palette:
-glossy black, cherry red, brushed silver. Soft lighting, clean white background.
-Front 3/4 view.
+Its black plush body has a subtle metallic sheen like brushed aluminum. The white belly
+patch carries faint embossed swoosh markings in cherry red, echoing the can's label. The
+flippers have a smooth, cool-to-the-touch vinyl texture like the surface of a real can.
+A tiny ring-pull tab hangs from one ear like a charm.
+
+Big glossy expressive eyes with bright catchlight reflections, half-lidded and confident.
+Round body, chibi proportions, stubby limbs. A single condensation droplet slides down its
+cheek. Color palette: glossy black, cherry red, brushed silver. Soft lighting, clean white
+background.
 ```
 
 **Design notes:**
 - Penguin's natural tuxedo coloring = Coke Zero black/white branding
 - Metallic sheen on plush = aluminum can surface
 - Red swoosh on belly = label detail without being literal
-- Condensation beads and ring-pull charm = "cold drink" identity
+- Half-lidded confident eyes = "zero" attitude, effortless cool
+- Single sliding condensation droplet = the signature moment
 
 ---
 

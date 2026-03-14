@@ -12,27 +12,39 @@ A classic yellow rubber duck (standard bath toy, orange beak)
 **Animal choice:** Duckling — the obvious pick, but that's the point. A rubber duck IS
 already a duck. Lean into it. The creature collector twist: make it a water-type starter.
 
+**Creature profile:**
+```
+Name:        Splashduck
+Type:        Water
+Personality: Hyperactive troublemaker. Always wet, always happy, can't sit still.
+Pose:        Mid-splash, wings spread out, tiny water droplets flying everywhere.
+Signature:   A miniature loofah sponge strapped to its back like a backpack.
+```
+
 ```
 A cute collectible 3D plush duckling inspired by a rubber duck. Designed to feel like a
 real toy you'd find on a shelf — tactile, huggable, premium build quality.
 
-The duckling's round body has the smooth matte-yellow surface of a bath toy, with a subtle
-squeezable softness to the silhouette. Its belly has a warm white plush patch like a
-terrycloth towel. Tiny webbed feet in bright orange with a playful, chunky toy feel. A
-small hard-molded orange beak gives it that classic rubber duck identity. A miniature
-loofah sponge hangs from one wing like a bag charm. Iridescent soap bubbles float around
-its head, catching the light.
+The duckling is mid-splash with both wings spread wide, tiny water droplets flying in
+every direction. Pure chaotic joy on its face — mouth open, caught mid-laugh.
 
-Big glossy expressive eyes with bright catchlight reflections and a mischievous sparkle,
-round body, chibi proportions, stubby flipper wings. Color palette: bath-toy yellow, clean white, warm orange, soft blue
-accents. Soft lighting, clean white background. Front 3/4 view.
+Its round body has the smooth matte-yellow surface of a bath toy, with a subtle squeezable
+softness to the silhouette. Its belly has a warm white plush patch like a terrycloth towel.
+Tiny webbed feet in bright orange with a playful, chunky toy feel. A small hard-molded
+orange beak gives it that classic rubber duck identity. A miniature loofah sponge is
+strapped to its back like a tiny backpack. Iridescent soap bubbles float around its head.
+
+Big glossy expressive eyes with bright catchlight reflections, wide open and brimming with
+mischief. Round body, chibi proportions, stubby flipper wings. Color palette: bath-toy
+yellow, clean white, warm orange, soft blue accents. Soft lighting, clean white background.
 ```
 
 **Design notes:**
 - Duckling is the natural fit — rubber duck already IS a duck, so double down
+- Mid-splash pose = instant energy, not static
 - Matte rubber surface + terrycloth belly = bath world materials
-- Loofah charm and floating soap bubbles = environmental details
-- Mischievous eyes give it a water-type starter personality
+- Loofah backpack = the signature "wait, that's clever" detail
+- Wide-open mischievous eyes = hyperactive water-type energy
 
 ---
 
