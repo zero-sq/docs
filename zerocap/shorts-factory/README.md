@@ -184,6 +184,10 @@ Soft lighting, clean white background.
 - Every pet needs a personality, not just an appearance. If it could be swapped with another
   pet and nobody would notice, it's not distinct enough.
 - Target emotion: "I want to collect all of these." If it doesn't trigger that, rethink it.
+- **NO BRAND NAMES OR LOGOS in any prompt.** Describe the object by its visual appearance
+  (colors, shapes, materials) — not by brand. E.g., "a black soda can with red cursive
+  lettering" not "a Coke Zero can." This applies to pet prompts, camera prompts, and
+  transition prompts. Brand names can appear in social media copy and text overlays only.
 
 ### Camera screen photo (Nano Banana)
 

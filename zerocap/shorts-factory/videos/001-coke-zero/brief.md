@@ -22,16 +22,16 @@ Signature:   A single condensation droplet sliding down its cheek like a cool sw
 ```
 
 ```
-A cute collectible 3D plush penguin inspired by a Coke Zero can. Designed to feel like a
+A cute collectible 3D plush penguin inspired by a black soda can. Designed to feel like a
 real toy you'd find on a shelf — tactile, huggable, premium build quality.
 
 The penguin is leaning back casually with one flipper resting behind its head, looking
 effortlessly chill with a slight smirk. Too-cool-for-school energy.
 
 Its black plush body has a subtle metallic sheen like brushed aluminum. The white belly
-patch carries faint embossed swoosh markings in cherry red, echoing the can's label. The
-flippers have a smooth, cool-to-the-touch vinyl texture like the surface of a real can.
-A tiny ring-pull tab hangs from one ear like a charm.
+patch carries faint embossed wavy markings in cherry red. The flippers have a smooth,
+cool-to-the-touch vinyl texture like the surface of a real aluminum can. A tiny ring-pull
+tab hangs from one ear like a charm.
 
 Big glossy expressive eyes with bright catchlight reflections, half-lidded and confident.
 Round body, chibi proportions, stubby limbs. A single condensation droplet slides down its
@@ -53,15 +53,15 @@ background.
 **Aspect ratio:** 9:16 (portrait)
 
 ```
-A realistic photo of a Coke Zero can sitting on a light wood kitchen counter. Shot from a
-slightly overhead angle, first-person perspective. The can is positioned in the upper-center
-of the frame — the bottom third of the image is just counter surface with no important
-detail. Natural warm indoor kitchen lighting, slight depth of field with the background
-slightly blurred. The Coke Zero can is the clear focal point, showing the iconic black can
-with red Coke Zero logo. A few casual kitchen items barely visible in the soft background —
-maybe a cutting board edge, a fruit bowl. Photorealistic, high resolution, natural slight
-lens distortion. No filters. No UI. No camera interface. No text overlays. No phone screen
-frame. Just the photo.
+A realistic photo of a black soda can with red cursive lettering sitting on a light wood
+kitchen counter. Shot from a slightly overhead angle, first-person perspective. The can is
+positioned in the upper-center of the frame — the bottom third of the image is just counter
+surface with no important detail. Natural warm indoor kitchen lighting, slight depth of
+field with the background slightly blurred. The black can is the clear focal point, showing
+condensation droplets on its surface. A few casual kitchen items barely visible in the soft
+background — maybe a cutting board edge, a fruit bowl. Photorealistic, high resolution,
+natural slight lens distortion. No filters. No UI. No camera interface. No text overlays.
+No phone screen frame. No brand logos. Just the photo.
 ```
 
 ---
@@ -70,7 +70,7 @@ frame. Just the photo.
 
 ### Transition A: camera → pet
 ```
-The Coke Zero can sitting on the kitchen counter begins to glow with a soft red and black
+The black soda can sitting on the kitchen counter begins to glow with a soft red and black
 aura. Tiny fizz bubbles rise from the can as it starts morphing. The can's shape rounds
 out, stubby limbs sprout, and a cute face appears. The kitchen background dims and shifts
 to a dark game world with grass. The can has fully transformed into an adorable black
@@ -83,7 +83,7 @@ plushy creature with red markings and fizzy bubble hair. Smooth magical transfor
 The cute black plushy soda creature standing on grass in a dark game world starts to
 shimmer. Fizz bubbles swirl around it as its limbs retract, face fades, and body elongates
 back into a cylindrical shape. The dark game background brightens into a warm kitchen. The
-creature has reversed back into a Coke Zero can sitting on a light wood counter. Smooth
+creature has reversed back into a black soda can sitting on a light wood counter. Smooth
 reverse transformation, 3 seconds.
 ```
 

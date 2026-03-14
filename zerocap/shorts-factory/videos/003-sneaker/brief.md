@@ -36,7 +36,7 @@ lines running along its sides like shoe panel seams. Its belly has a mesh fabric
 like the breathable tongue of a sneaker. Chunky oversized feet with thick rubber soles —
 waffle-pattern tread clearly visible on the bottom. Its long ears are untied shoelaces —
 white fabric laces with tiny metal aglets on the tips, swept back mid-sprint. A small
-embroidered swoosh-like speed line on its haunch.
+embroidered speed lines on its haunch like motion blur stitched into the fabric.
 
 Big glossy expressive eyes with bright catchlight reflections, narrowed with competitive
 determination. Round body, chibi proportions, powerful stubby hind legs. Color palette:
