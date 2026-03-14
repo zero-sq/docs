@@ -9,27 +9,30 @@ A Coke Zero can (330ml, standard red-and-black design)
 
 **Aspect ratio:** 1:1 (square)
 
+**Animal choice:** Penguin — black-and-white tuxedo body maps naturally to Coke Zero's
+black can with silver/white accents. Round, stubby, iconic silhouette.
+
 ```
-A cute handmade-looking 3D creature inspired by a Coke Zero can. The creature's body IS
-the can — its round cylindrical torso has the glossy black surface of brushed aluminum
-with embossed red swoosh markings pressed into the metal. The belly panel is a riveted
-sheet of tin with tiny stamped Coke Zero lettering as a texture pattern. Stubby feet made
-of capped bottle-cap metal, slightly dented and worn. Chibi proportions, stubby limbs,
-big expressive eyes, small happy mouth. A ring-pull tab attached to one ear like an
-industrial piercing. Tiny crystal-clear resin beads clustered on its forehead and
-shoulders — condensation droplets frozen in place. A short curled tail shaped like a
-twisted aluminum shaving. Color palette: glossy black, cherry red, brushed silver.
-Reads as a premium collectible craft toy — part crushed can sculpture, part plush
-creature. Soft lighting, slight subsurface scattering on mixed materials. Clean white
-background. Front 3/4 view.
+A cute collectible 3D plush penguin inspired by a Coke Zero can. Designed to feel like a
+real toy you'd find on a shelf — tactile, huggable, premium build quality.
+
+The penguin's black plush body has a subtle metallic sheen like brushed aluminum. Its white
+belly patch carries faint embossed swoosh markings in cherry red, echoing the can's label.
+The flippers have a smooth, cool-to-the-touch vinyl texture like the surface of a real can.
+A tiny ring-pull tab hangs from one ear like a charm. Condensation beads — tiny clear resin
+droplets — cluster on its forehead and shoulders as if it just came out of a cold fridge.
+
+Big glossy expressive eyes with bright catchlight reflections, round body, chibi
+proportions, stubby limbs. Color palette:
+glossy black, cherry red, brushed silver. Soft lighting, clean white background.
+Front 3/4 view.
 ```
 
-**Material fusion cues:**
-- Body surface = brushed aluminum with embossed red markings
-- Belly panel = riveted tin sheet with stamped text texture
-- Bottle-cap metal feet, slightly dented
-- Condensation = crystal resin beads on forehead/shoulders
-- Ring-pull ear piercing, twisted aluminum shaving tail
+**Design notes:**
+- Penguin's natural tuxedo coloring = Coke Zero black/white branding
+- Metallic sheen on plush = aluminum can surface
+- Red swoosh on belly = label detail without being literal
+- Condensation beads and ring-pull charm = "cold drink" identity
 
 ---
 

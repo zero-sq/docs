@@ -16,7 +16,7 @@ Viewers watch 2-3 loops before realizing it's repeating. ~6 seconds per loop.
 
 ### 1. Pet image (generated)
 - **Tool:** Nano Banana (or equivalent image gen)
-- **Style:** See prompt template below — style varies per object (craft plushie, creature collector, animated film, or custom)
+- **Style:** Collectible 3D plush creature — tactile toy feel, big expressive eyes, creature-collector energy (see prompt template below)
 - **Background:** Transparent or white (will be composited onto game screen template)
 - **Derivation:** Pet visually references the source object (colors, shapes, textures become creature features)
 
@@ -117,51 +117,42 @@ object. The object's colors, patterns, and shapes should suggest the animal. Exa
 
 The best pets feel like the animal was *born* to represent that object.
 
-**Step 2 — Choose the visual style.** Let the object guide which aesthetic fits best.
-Two proven directions (but don't limit yourself to these — if the object suggests
-something else, follow it):
+**Step 2 — Write the prompt.**
 
-| Style | Feel | When it works best | Reference |
-|-------|------|-------------------|-----------|
-| **Craft plushie** | Handmade, tactile, warm. Knit/felt/leather/terrycloth. Mixed-media materials from the object's world. | Objects with rich textures and warm colors — food, clothing, household items | Burger bird |
-| **Creature collector** | Clean, smooth vinyl/clay. Chibi proportions, collectible designer-toy feel. Object identity comes through color mapping, accessories, and environmental details. | Objects with bold graphic identity or clean silhouettes — drinks, tech, branded items | Macchiato raccoon |
-| **Animated film** | Pixar/Illumination energy. Big glossy eyes, exaggerated expressions, subsurface skin glow, cinematic lighting. Feels like a movie character, not a toy. | Objects with personality or humor potential — expressive, story-driven | — |
+The core aesthetic blends three pillars into one style:
+- **Plushie** — tactile, collectible, "I want to buy this as a real toy"
+- **Animated film** — big glossy expressive eyes, personality, cinematic warmth
+- **Creature collector** — distinct creature with elemental typing energy, feels like
+  part of a roster you'd want to collect them all
 
-You can also blend them or invent a new direction entirely. The style should serve the
-object, not the other way around.
-
-**Step 3 — Write the prompt.**
+Every pet should hit all three. The creativity is in HOW each pet executes them — what
+animal, what materials, what details. The object drives those decisions.
 
 ```
-A cute [STYLE DIRECTION — e.g., "handmade craft plushie" / "smooth vinyl collectible
-creature" / your own description] 3D [ANIMAL/CREATURE TYPE] inspired by a [OBJECT].
+A cute collectible 3D plush [ANIMAL/CREATURE TYPE] inspired by a [OBJECT]. Designed to
+feel like a real toy you'd find on a shelf — tactile, huggable, premium build quality.
 
-[IF CRAFT PLUSHIE STYLE]: The [ANIMAL]'s body incorporates the [OBJECT]'s actual materials
-and textures, fused with complementary craft materials from the object's world. [MATERIAL
-FUSION: choose materials that naturally relate to the object's environment — every object
-should have its own unique material story. Ask: what materials exist in this object's
-world?]
+The [ANIMAL]'s body incorporates the [OBJECT]'s materials, textures, and colors into its
+design. [MATERIAL/TEXTURE DIRECTION: describe how the object's visual identity shows up
+on the creature — this could be through surface materials (craft plushie approach), through
+color/pattern mapping on a clean body (collectible toy approach), or through costume and
+environmental details, or any creative combination. Let the object guide what feels right.
+Every pet should have its own unique approach — don't repeat the same formula].
 
-[IF CREATURE COLLECTOR STYLE]: The [ANIMAL] is rendered in a clean, smooth collectible-toy
-style. Its natural markings and color palette map directly to the [OBJECT]'s visual identity.
-[COLOR/PATTERN MAPPING: e.g., raccoon's brown-cream banding = coffee-milk layers]. Object
-identity is reinforced through costume details and environmental elements — [ACCESSORIES
-AND ENVIRONMENT: e.g., barista apron, floating ice cubes, straw stem on head].
-
-[IF SOMETHING ELSE]: Describe the style and why it fits this object.
-
-Chibi proportions, round body, stubby limbs, expressive face. One or two small accent
-details from the object's world — [DETAIL CUES]. Color palette is cohesive, derived from
-the [OBJECT]'s natural colors. Reads as a premium collectible, not a generic 3D render.
-Soft lighting. Clean white background. Front 3/4 view.
+Big glossy expressive eyes with bright catchlight reflections (not solid dark — should feel
+warm and alive), round body, chibi proportions, stubby limbs — the kind of face that makes
+kids (and adults) say "I need this." One or two small accent details from
+the object's world — [DETAIL CUES]. Color palette is cohesive, derived from the [OBJECT]'s
+natural colors. Soft lighting, clean white background. Front 3/4 view.
 ```
 
 **Guiding principles:**
-- The object drives everything — animal choice, style, materials, palette. Not the template.
+- The object drives everything — animal choice, materials, palette. Not the template.
 - Do NOT repeat the same formula across pets. Each one should feel like its own creative
   decision.
 - The best result is one where someone sees the pet and *immediately* knows what object it
   came from, without being told.
+- Target emotion: "I want to collect all of these." If it doesn't trigger that, rethink it.
 
 ### Camera screen photo (Nano Banana)
 

@@ -9,26 +9,30 @@ A classic yellow rubber duck (standard bath toy, orange beak)
 
 **Aspect ratio:** 1:1 (square)
 
+**Animal choice:** Duckling — the obvious pick, but that's the point. A rubber duck IS
+already a duck. Lean into it. The creature collector twist: make it a water-type starter.
+
 ```
-A cute handmade-looking 3D creature inspired by a rubber duck. The creature's body IS the
-duck — its round torso has the smooth matte-yellow squeezable rubber surface of a bath toy,
-with visible mold seam lines running down the sides. The belly patch is soft white
-terrycloth towel fabric, slightly fluffy, with a stitched edge. Stubby webbed feet made of
-waterproof yellow vinyl with neat topstitching. Chibi proportions, stubby flipper-like
-limbs, big expressive eyes, a tiny hard-molded orange beak. A miniature loofah sponge
-hangs from one arm like a bag charm. Tiny iridescent soap-bubble beads dotted across the
-top of its head like a crown. A short curled tail shaped like a rolled-up washcloth. Color
-palette: bath-toy yellow, clean white, warm orange, soft blue accents. Reads as a premium
-collectible craft toy — part bath toy sculpture, part plush creature. Soft lighting, slight
-subsurface scattering on mixed materials. Clean white background. Front 3/4 view.
+A cute collectible 3D plush duckling inspired by a rubber duck. Designed to feel like a
+real toy you'd find on a shelf — tactile, huggable, premium build quality.
+
+The duckling's round body has the smooth matte-yellow surface of a bath toy, with a subtle
+squeezable softness to the silhouette. Its belly has a warm white plush patch like a
+terrycloth towel. Tiny webbed feet in bright orange with a playful, chunky toy feel. A
+small hard-molded orange beak gives it that classic rubber duck identity. A miniature
+loofah sponge hangs from one wing like a bag charm. Iridescent soap bubbles float around
+its head, catching the light.
+
+Big glossy expressive eyes with bright catchlight reflections and a mischievous sparkle,
+round body, chibi proportions, stubby flipper wings. Color palette: bath-toy yellow, clean white, warm orange, soft blue
+accents. Soft lighting, clean white background. Front 3/4 view.
 ```
 
-**Material fusion cues:**
-- Body surface = smooth matte rubber with visible mold seam lines
-- Belly patch = terrycloth towel fabric with stitched edge
-- Waterproof vinyl webbed feet with topstitching
-- Soap-bubble iridescent beads as head crown
-- Mini loofah sponge arm charm, rolled washcloth tail
+**Design notes:**
+- Duckling is the natural fit — rubber duck already IS a duck, so double down
+- Matte rubber surface + terrycloth belly = bath world materials
+- Loofah charm and floating soap bubbles = environmental details
+- Mischievous eyes give it a water-type starter personality
 
 ---
 
