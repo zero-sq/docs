@@ -66,6 +66,20 @@ No phone screen frame. No brand logos. Just the photo.
 
 ---
 
+## Game screen composite prompt (Nano Banana)
+
+**Upload:** `templates/game-screen.jpeg` + `pet.jpeg`
+
+```
+Place the black plush penguin with a metallic sheen, red wavy markings on its white belly,
+and a silver ring-pull tab hanging from its ear from the second image into the game
+environment from the first image. The penguin should be standing in the center on the dark
+marble ground, same size and position as the existing character. Keep all UI elements (name
+badge, menu, action icons, bottom nav bar) exactly as they are. 9:16 portrait.
+```
+
+---
+
 ## Transition prompts (Higgsfield — Kling 3.0 or Veo 3.0)
 
 ### Transition A: camera → pet

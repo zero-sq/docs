@@ -66,6 +66,21 @@ No phone screen frame. Just the photo.
 
 ---
 
+## Game screen composite prompt (Nano Banana)
+
+**Upload:** `templates/game-screen.jpeg` + `pet.jpeg`
+
+```
+Place the yellow plush duckling with an orange beak, white terrycloth belly, soap bubbles
+floating around its head, and a miniature loofah sponge strapped to its back from the
+second image into the game environment from the first image. The duckling should be
+standing in the center on the dark marble ground, same size and position as the existing
+character. Keep all UI elements (name badge, menu, action icons, bottom nav bar) exactly
+as they are. 9:16 portrait.
+```
+
+---
+
 ## Transition prompts (Higgsfield — Kling 3.0 or Veo 3.0)
 
 ### Transition A: camera → pet

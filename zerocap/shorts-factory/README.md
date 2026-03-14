@@ -212,6 +212,21 @@ depth of field. Photorealistic, high resolution, natural slight lens distortion.
 No UI. No camera interface. No text overlays. No phone screen frame. Just the photo.
 ```
 
+### Game screen composite (Nano Banana — using game-screen template + pet image)
+
+**Input:** Upload `templates/game-screen.jpeg` (reference) + the pet image for this video.
+
+```
+Place the [DESCRIBE PET SPECIFICALLY — e.g., "black penguin with a red swoosh on its
+belly and a ring-pull tab on its ear"] from the second image into the game environment
+from the first image. The [PET] should be standing in the center on the dark marble
+ground, same size and position as the existing character. Keep all UI elements (name
+badge, menu, action icons, bottom nav bar) exactly as they are. 9:16 portrait.
+```
+
+**Note:** You MUST describe the pet's specific visual features — don't just say "the
+character" or "the pet." The model needs to know what it's placing.
+
 ### Transition A: camera → pet (Higgsfield)
 
 ```
