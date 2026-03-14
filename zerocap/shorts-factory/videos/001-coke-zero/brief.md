@@ -7,25 +7,35 @@ A Coke Zero can (330ml, standard red-and-black design)
 
 ## Pet image prompt (Nano Banana)
 
+**Aspect ratio:** 1:1 (square)
+
 ```
-A cute plushy 3D creature inspired by a Coke Zero can. Soft-toy aesthetic, chibi
-proportions, round cylindrical body, stubby limbs, big expressive eyes, small happy mouth.
-The creature's body is glossy black with subtle red swoosh markings mimicking the Coke Zero
-label. It has tiny fizz-bubble patterns floating up from its head like effervescent hair.
-Small metallic silver ring-pull shaped ears. A short bubbly tail that looks like
-carbonation fizzing out. Rendered in a modern mobile game style, soft lighting, slight
-subsurface scattering on the plushy material. Clean white background. Front 3/4 view.
+A cute handmade-looking 3D creature inspired by a Coke Zero can. The creature's body IS
+the can — its round cylindrical torso has the glossy black surface of aluminum with red
+swoosh markings, fused with craft materials. A knitted dark charcoal scarf with red
+stitched accents tied at the front. The belly area transitions into a Fair Isle knit
+pattern in black, red, and silver tones. Leather feet and a leather base patch on the
+bottom. Chibi proportions, stubby limbs, small closed happy eyes, tiny happy mouth. A
+small metallic silver ring-pull sewn onto one ear like a charm. Fizz-bubble details
+embroidered as tiny silver French knots rising from its head. A short curled tail made of
+twisted silver thread. Color palette: black, red, silver, charcoal — cohesive and warm.
+Reads as a premium collectible craft plush. Soft lighting, slight subsurface scattering
+on mixed materials. Clean white background. Front 3/4 view.
 ```
 
-**Key visual cues to carry over:**
-- Black body with red accents (Coke Zero branding colors)
-- Cylindrical roundness
-- Fizz/carbonation as decorative element (hair, tail, aura)
-- Metallic silver details (from the can top)
+**Material fusion cues:**
+- Body surface = glossy aluminum can texture fused with knitted fabric
+- Knit scarf with red stitched accents (Coke branding)
+- Fair Isle belly pattern in black/red/silver
+- Leather feet and base
+- Embroidered fizz bubbles (silver French knots)
+- Ring-pull ear charm, twisted silver thread tail
 
 ---
 
 ## Camera screen photo prompt (Nano Banana)
+
+**Aspect ratio:** 9:16 (portrait)
 
 ```
 A realistic first-person smartphone camera photo of a Coke Zero can sitting on a light

@@ -106,16 +106,24 @@ For each object in the list:
 
 ### Pet image generation (Nano Banana)
 
+**Aspect ratio:** 1:1 (square) — pet gets composited onto the game screen template's center swap zone
+
 ```
-A cute plushy 3D creature inspired by a [OBJECT]. Soft-toy aesthetic, chibi proportions,
-round body, stubby limbs, big expressive eyes, small happy mouth. The creature's design
-incorporates visual elements from the [OBJECT] — [SPECIFIC VISUAL CUES: colors, patterns,
-shapes become creature features like ears, tail, shell, markings]. Rendered in a modern
-mobile game style, soft lighting, slight subsurface scattering on the plushy material.
-Clean white background. Front 3/4 view.
+A cute handmade-looking 3D creature inspired by a [OBJECT]. The creature's body IS the
+object — its surface is made from the [OBJECT]'s actual materials and textures, fused with
+craft materials like knitted fabric, stitched leather, and felt. [SPECIFIC MATERIAL FUSION:
+e.g., body has the texture of the object's surface, combined with Fair Isle knit patterns,
+leather feet/base, knit scarf or accessory tied at the front]. Chibi proportions, round
+body, stubby limbs, small closed happy eyes, tiny mouth. Small handcrafted details sell it
+— [DETAIL CUES: e.g., a button, embroidered stitching, a spiral tail, seed dots on a bun
+cap]. Color palette is cohesive and warm, derived from the [OBJECT]'s natural colors.
+Reads as a premium collectible craft plush, not a generic 3D render. Soft lighting, slight
+subsurface scattering on mixed materials. Clean white background. Front 3/4 view.
 ```
 
 ### Camera screen photo (Nano Banana)
+
+**Aspect ratio:** 9:16 (portrait) — fills the camera screen template background for Shorts/Reels/TikTok
 
 ```
 A realistic first-person smartphone camera photo of a [OBJECT] sitting on [SURFACE/LOCATION].
