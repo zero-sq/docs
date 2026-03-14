@@ -293,7 +293,12 @@ No Spark Ads at this tier. Goal is identifying 1-2 hook styles that create organ
 
 ### Spark Ads strategy
 
-Spark Ads are TikTok's format for boosting organic creator posts as paid ads. The ad runs FROM the creator's handle, looking like native content with a small "Sponsored" label. This is the highest-ROI paid format available:
+Spark Ads are TikTok's format for boosting organic creator posts as paid ads. The ad runs FROM the creator's handle, looking like native content with a small "Sponsored" label. This is the highest-ROI paid format available.
+
+**Official docs:**
+- [About Spark Ads](https://ads.tiktok.com/help/article/spark-ads)
+- [Creation guide](https://ads.tiktok.com/help/article/spark-ads-creation-guide)
+- [Creative playbook](https://ads.tiktok.com/business/creativecenter/quicktok/online/Spark-Ads-Creative-Playbook/pc/en)
 
 | Metric | Traditional TikTok Ads | Spark Ads |
 |--------|----------------------|-----------|
