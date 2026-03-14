@@ -16,7 +16,7 @@ Viewers watch 2-3 loops before realizing it's repeating. ~6 seconds per loop.
 
 ### 1. Pet image (generated)
 - **Tool:** Nano Banana (or equivalent image gen)
-- **Style:** Plushy/soft-toy aesthetic, 3D render, cute face, chibi proportions
+- **Style:** See prompt template below — style varies per object (craft plushie, creature collector, animated film, or custom)
 - **Background:** Transparent or white (will be composited onto game screen template)
 - **Derivation:** Pet visually references the source object (colors, shapes, textures become creature features)
 
@@ -108,18 +108,60 @@ For each object in the list:
 
 **Aspect ratio:** 1:1 (square) — pet gets composited onto the game screen template's center swap zone
 
+**Step 1 — Choose the animal/creature base.** Don't default to a generic blob. Pick a real
+animal or character archetype whose natural appearance already shares visual DNA with the
+object. The object's colors, patterns, and shapes should suggest the animal. Examples:
+- Caramel macchiato → raccoon (brown/cream banding = coffee/milk layers)
+- Burger → round bird (plump shape, warm browns, sesame bun = head cap)
+- Coke Zero → beetle or penguin (black body, red accents)
+
+The best pets feel like the animal was *born* to represent that object.
+
+**Step 2 — Choose the visual style.** Let the object guide which aesthetic fits best.
+Two proven directions (but don't limit yourself to these — if the object suggests
+something else, follow it):
+
+| Style | Feel | When it works best | Reference |
+|-------|------|-------------------|-----------|
+| **Craft plushie** | Handmade, tactile, warm. Knit/felt/leather/terrycloth. Mixed-media materials from the object's world. | Objects with rich textures and warm colors — food, clothing, household items | Burger bird |
+| **Creature collector** | Clean, smooth vinyl/clay. Chibi proportions, collectible designer-toy feel. Object identity comes through color mapping, accessories, and environmental details. | Objects with bold graphic identity or clean silhouettes — drinks, tech, branded items | Macchiato raccoon |
+| **Animated film** | Pixar/Illumination energy. Big glossy eyes, exaggerated expressions, subsurface skin glow, cinematic lighting. Feels like a movie character, not a toy. | Objects with personality or humor potential — expressive, story-driven | — |
+
+You can also blend them or invent a new direction entirely. The style should serve the
+object, not the other way around.
+
+**Step 3 — Write the prompt.**
+
 ```
-A cute handmade-looking 3D creature inspired by a [OBJECT]. The creature's body IS the
-object — its surface is made from the [OBJECT]'s actual materials and textures, fused with
-craft materials like knitted fabric, stitched leather, and felt. [SPECIFIC MATERIAL FUSION:
-e.g., body has the texture of the object's surface, combined with Fair Isle knit patterns,
-leather feet/base, knit scarf or accessory tied at the front]. Chibi proportions, round
-body, stubby limbs, small closed happy eyes, tiny mouth. Small handcrafted details sell it
-— [DETAIL CUES: e.g., a button, embroidered stitching, a spiral tail, seed dots on a bun
-cap]. Color palette is cohesive and warm, derived from the [OBJECT]'s natural colors.
-Reads as a premium collectible craft plush, not a generic 3D render. Soft lighting, slight
-subsurface scattering on mixed materials. Clean white background. Front 3/4 view.
+A cute [STYLE DIRECTION — e.g., "handmade craft plushie" / "smooth vinyl collectible
+creature" / your own description] 3D [ANIMAL/CREATURE TYPE] inspired by a [OBJECT].
+
+[IF CRAFT PLUSHIE STYLE]: The [ANIMAL]'s body incorporates the [OBJECT]'s actual materials
+and textures, fused with complementary craft materials from the object's world. [MATERIAL
+FUSION: choose materials that naturally relate to the object's environment — every object
+should have its own unique material story. Ask: what materials exist in this object's
+world?]
+
+[IF CREATURE COLLECTOR STYLE]: The [ANIMAL] is rendered in a clean, smooth collectible-toy
+style. Its natural markings and color palette map directly to the [OBJECT]'s visual identity.
+[COLOR/PATTERN MAPPING: e.g., raccoon's brown-cream banding = coffee-milk layers]. Object
+identity is reinforced through costume details and environmental elements — [ACCESSORIES
+AND ENVIRONMENT: e.g., barista apron, floating ice cubes, straw stem on head].
+
+[IF SOMETHING ELSE]: Describe the style and why it fits this object.
+
+Chibi proportions, round body, stubby limbs, expressive face. One or two small accent
+details from the object's world — [DETAIL CUES]. Color palette is cohesive, derived from
+the [OBJECT]'s natural colors. Reads as a premium collectible, not a generic 3D render.
+Soft lighting. Clean white background. Front 3/4 view.
 ```
+
+**Guiding principles:**
+- The object drives everything — animal choice, style, materials, palette. Not the template.
+- Do NOT repeat the same formula across pets. Each one should feel like its own creative
+  decision.
+- The best result is one where someone sees the pet and *immediately* knows what object it
+  came from, without being told.
 
 ### Camera screen photo (Nano Banana)
 

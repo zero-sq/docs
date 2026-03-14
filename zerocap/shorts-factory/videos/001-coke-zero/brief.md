@@ -11,25 +11,25 @@ A Coke Zero can (330ml, standard red-and-black design)
 
 ```
 A cute handmade-looking 3D creature inspired by a Coke Zero can. The creature's body IS
-the can — its round cylindrical torso has the glossy black surface of aluminum with red
-swoosh markings, fused with craft materials. A knitted dark charcoal scarf with red
-stitched accents tied at the front. The belly area transitions into a Fair Isle knit
-pattern in black, red, and silver tones. Leather feet and a leather base patch on the
-bottom. Chibi proportions, stubby limbs, small closed happy eyes, tiny happy mouth. A
-small metallic silver ring-pull sewn onto one ear like a charm. Fizz-bubble details
-embroidered as tiny silver French knots rising from its head. A short curled tail made of
-twisted silver thread. Color palette: black, red, silver, charcoal — cohesive and warm.
-Reads as a premium collectible craft plush. Soft lighting, slight subsurface scattering
-on mixed materials. Clean white background. Front 3/4 view.
+the can — its round cylindrical torso has the glossy black surface of brushed aluminum
+with embossed red swoosh markings pressed into the metal. The belly panel is a riveted
+sheet of tin with tiny stamped Coke Zero lettering as a texture pattern. Stubby feet made
+of capped bottle-cap metal, slightly dented and worn. Chibi proportions, stubby limbs,
+big expressive eyes, small happy mouth. A ring-pull tab attached to one ear like an
+industrial piercing. Tiny crystal-clear resin beads clustered on its forehead and
+shoulders — condensation droplets frozen in place. A short curled tail shaped like a
+twisted aluminum shaving. Color palette: glossy black, cherry red, brushed silver.
+Reads as a premium collectible craft toy — part crushed can sculpture, part plush
+creature. Soft lighting, slight subsurface scattering on mixed materials. Clean white
+background. Front 3/4 view.
 ```
 
 **Material fusion cues:**
-- Body surface = glossy aluminum can texture fused with knitted fabric
-- Knit scarf with red stitched accents (Coke branding)
-- Fair Isle belly pattern in black/red/silver
-- Leather feet and base
-- Embroidered fizz bubbles (silver French knots)
-- Ring-pull ear charm, twisted silver thread tail
+- Body surface = brushed aluminum with embossed red markings
+- Belly panel = riveted tin sheet with stamped text texture
+- Bottle-cap metal feet, slightly dented
+- Condensation = crystal resin beads on forehead/shoulders
+- Ring-pull ear piercing, twisted aluminum shaving tail
 
 ---
 

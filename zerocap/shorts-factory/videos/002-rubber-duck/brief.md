@@ -11,25 +11,24 @@ A classic yellow rubber duck (standard bath toy, orange beak)
 
 ```
 A cute handmade-looking 3D creature inspired by a rubber duck. The creature's body IS the
-duck — its round torso has the smooth matte-yellow rubber surface of a bath toy, fused
-with craft materials. A knitted cream-white scarf tied at the front like a bath towel. The
-belly transitions into a Fair Isle knit pattern in yellow, cream, and soft orange tones.
-Leather feet and a leather base patch on the bottom in warm tan. Chibi proportions, stubby
-flipper-like limbs, small closed happy eyes, a tiny stitched orange felt beak. A small
-embroidered water droplet sewn onto the scarf as a button detail. Bubble patterns
-embroidered as tiny white French knots scattered across the top of its head. A short curled
-tail made of twisted yellow yarn. Color palette: bright yellow, cream, warm orange, tan —
-cohesive and cheerful. Reads as a premium collectible craft plush. Soft lighting, slight
+duck — its round torso has the smooth matte-yellow squeezable rubber surface of a bath toy,
+with visible mold seam lines running down the sides. The belly patch is soft white
+terrycloth towel fabric, slightly fluffy, with a stitched edge. Stubby webbed feet made of
+waterproof yellow vinyl with neat topstitching. Chibi proportions, stubby flipper-like
+limbs, big expressive eyes, a tiny hard-molded orange beak. A miniature loofah sponge
+hangs from one arm like a bag charm. Tiny iridescent soap-bubble beads dotted across the
+top of its head like a crown. A short curled tail shaped like a rolled-up washcloth. Color
+palette: bath-toy yellow, clean white, warm orange, soft blue accents. Reads as a premium
+collectible craft toy — part bath toy sculpture, part plush creature. Soft lighting, slight
 subsurface scattering on mixed materials. Clean white background. Front 3/4 view.
 ```
 
 **Material fusion cues:**
-- Body surface = smooth matte rubber duck texture fused with knitted fabric
-- Cream knit scarf tied at front (bath towel reference)
-- Fair Isle belly pattern in yellow/cream/orange
-- Leather feet and base in warm tan
-- Embroidered water droplet button, white French knot bubbles
-- Tiny orange felt beak, twisted yellow yarn tail
+- Body surface = smooth matte rubber with visible mold seam lines
+- Belly patch = terrycloth towel fabric with stitched edge
+- Waterproof vinyl webbed feet with topstitching
+- Soap-bubble iridescent beads as head crown
+- Mini loofah sponge arm charm, rolled washcloth tail
 
 ---
 
