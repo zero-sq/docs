@@ -54,13 +54,14 @@ yellow, clean white, warm orange, soft blue accents. Soft lighting, clean white 
 
 ```
 A realistic photo of a classic yellow rubber duck sitting on the edge of a white bathroom
-sink. Shot from a slightly overhead angle, first-person perspective. Natural cool-white
-bathroom lighting, slight depth of field with the background slightly blurred. The rubber
-duck is the clear focal point, centered in frame, showing its bright yellow body and orange
-beak with a cheerful expression. A chrome faucet and soap dispenser barely visible in the
-soft background. Photorealistic, high resolution, natural slight lens distortion. No
-filters. No UI. No camera interface. No text overlays. No phone screen frame. Just the
-photo.
+sink. Shot from a slightly overhead angle, first-person perspective. The rubber duck is
+positioned in the upper-center of the frame — the bottom third of the image is just sink
+surface with no important detail. Natural cool-white bathroom lighting, slight depth of
+field with the background slightly blurred. The rubber duck is the clear focal point,
+showing its bright yellow body and orange beak with a cheerful expression. A chrome faucet
+and soap dispenser barely visible in the soft background. Photorealistic, high resolution,
+natural slight lens distortion. No filters. No UI. No camera interface. No text overlays.
+No phone screen frame. Just the photo.
 ```
 
 ---

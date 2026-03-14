@@ -54,7 +54,7 @@ composites onto the SAME template files — this is what keeps the UI consistent
 | Template file | Location |
 |--------------|----------|
 | `templates/game-screen.png` | Game screen UI overlay (9:16, transparent center) |
-| `templates/camera-screen.png` | Camera screen UI overlay (9:16, transparent background) |
+| `templates/camera-screen.jpeg` | Camera screen UI overlay (9:16, transparent background) |
 
 ### Game screen template (`templates/game-screen.png`)
 - Dark background with grassy landscape at top
@@ -64,14 +64,13 @@ composites onto the SAME template files — this is what keeps the UI consistent
 - Bottom bar: avatar, username (@zerocap), navigation icons
 - **Swap zone:** Center — transparent area, replace with generated pet image
 
-### Camera screen template (`templates/camera-screen.png`)
-- Full-screen camera viewfinder frame
-- Back arrow + play/volume controls (top-left)
-- Left sidebar: lock, people, globe icons
-- "Capture Tips" overlay at bottom-center
+### Camera screen template (`templates/camera-screen.jpeg`)
+- Full-screen camera viewfinder (black background)
+- Back arrow (top-left), hamburger menu icon (top-right)
+- "Capture Tips" + "Capture something to create your pet" text (bottom-center)
 - Large capture button (bottom-center)
-- Bottom bar: avatar, username (@zerocap)
-- **Swap zone:** Full background — transparent, replace with generated realistic photo
+- Bottom tab bar: "Item" + "Pet" toggle (paw icon on Pet tab)
+- **Swap zone:** Full background — replace with generated realistic photo
 
 ---
 
@@ -88,9 +87,10 @@ For each object in the list:
    → Nano Banana prompt (from camera-prompt template)
    → Save as: videos/XXX-object-name/camera.png
 
-3. COMPOSITE ONTO TEMPLATES
-   → Paste pet.png onto game screen template → game-final.png
-   → Paste camera.png onto camera screen template → camera-final.png
+3. COMPOSITE ONTO TEMPLATES (automated)
+   → python3 scripts/composite.py videos/XXX/camera.png templates/camera-screen.png videos/XXX/camera-final.png
+   → python3 scripts/composite.py videos/XXX/pet.png templates/game-screen.png videos/XXX/game-final.png
+   → Or batch all videos: see scripts/composite.py header for loop command
 
 4. GENERATE TRANSITIONS (Higgsfield)
    → Upload game-final.png + camera-final.png
@@ -193,12 +193,19 @@ Soft lighting, clean white background.
 frame, no buttons, no text. The camera UI comes from the template overlay in the composite
 step. The generated image is just the raw background photo.
 
+**Framing note:** The camera screen template (see `templates/camera-screen.jpeg`) has UI
+elements at the top (back arrow, menu icon) and bottom (capture tips text, capture button,
+Item/Pet tab bar). The object must be positioned in the **center-upper area** of the frame
+so it's clearly visible and not covered by the bottom UI. Leave the bottom ~30% of the
+frame as environment/surface with no important detail.
+
 ```
 A realistic photo of a [OBJECT] sitting on [SURFACE/LOCATION]. Shot from a slightly
-overhead angle, first-person perspective. Natural indoor lighting, slight depth of field.
-The [OBJECT] is the clear focal point, centered in frame. Photorealistic, high resolution,
-natural slight lens distortion. No filters. No UI. No camera interface. No text overlays.
-No phone screen frame. Just the photo.
+overhead angle, first-person perspective. The [OBJECT] is positioned in the upper-center
+of the frame — the bottom third of the image is just surface/environment with no important
+detail (this area will be partially covered by UI overlay). Natural indoor lighting, slight
+depth of field. Photorealistic, high resolution, natural slight lens distortion. No filters.
+No UI. No camera interface. No text overlays. No phone screen frame. Just the photo.
 ```
 
 ### Transition A: camera → pet (Higgsfield)
@@ -270,9 +277,11 @@ All three platforms get the same video within the same day. Stagger by a few hou
 shorts-factory/
   README.md              ← this file (schema + templates)
   object-list.md         ← 30+ objects with brief notes
+  scripts/
+    composite.py         ← composites photo + UI template overlay (requires Pillow)
   templates/
     game-screen.png      ← game screen UI overlay (9:16, transparent center)
-    camera-screen.png    ← camera screen UI overlay (9:16, transparent background)
+    camera-screen.jpeg    ← camera screen UI overlay (9:16, transparent background)
   videos/
     001-coke-zero/
       brief.md           ← all prompts, copy, and notes for this video

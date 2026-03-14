@@ -54,12 +54,14 @@ background.
 
 ```
 A realistic photo of a Coke Zero can sitting on a light wood kitchen counter. Shot from a
-slightly overhead angle, first-person perspective. Natural warm indoor kitchen lighting,
-slight depth of field with the background slightly blurred. The Coke Zero can is the clear
-focal point, centered in frame, showing the iconic black can with red Coke Zero logo. A
-few casual kitchen items barely visible in the soft background — maybe a cutting board edge,
-a fruit bowl. Photorealistic, high resolution, natural slight lens distortion. No filters.
-No UI. No camera interface. No text overlays. No phone screen frame. Just the photo.
+slightly overhead angle, first-person perspective. The can is positioned in the upper-center
+of the frame — the bottom third of the image is just counter surface with no important
+detail. Natural warm indoor kitchen lighting, slight depth of field with the background
+slightly blurred. The Coke Zero can is the clear focal point, showing the iconic black can
+with red Coke Zero logo. A few casual kitchen items barely visible in the soft background —
+maybe a cutting board edge, a fruit bowl. Photorealistic, high resolution, natural slight
+lens distortion. No filters. No UI. No camera interface. No text overlays. No phone screen
+frame. Just the photo.
 ```
 
 ---
