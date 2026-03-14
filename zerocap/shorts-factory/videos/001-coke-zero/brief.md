@@ -53,14 +53,13 @@ background.
 **Aspect ratio:** 9:16 (portrait)
 
 ```
-A realistic first-person smartphone camera photo of a Coke Zero can sitting on a light
-wood kitchen counter. Shot from a slightly overhead angle as if someone is holding their
-phone to take a photo of the can. Natural warm indoor kitchen lighting, slight depth of
-field with the background slightly blurred. The Coke Zero can is the clear focal point,
-centered in frame, showing the iconic black can with red Coke Zero logo. A few casual
-kitchen items barely visible in the soft background — maybe a cutting board edge, a fruit
-bowl. Photorealistic, high resolution, mobile phone camera quality with natural slight lens
-distortion. No filters. No text overlays.
+A realistic photo of a Coke Zero can sitting on a light wood kitchen counter. Shot from a
+slightly overhead angle, first-person perspective. Natural warm indoor kitchen lighting,
+slight depth of field with the background slightly blurred. The Coke Zero can is the clear
+focal point, centered in frame, showing the iconic black can with red Coke Zero logo. A
+few casual kitchen items barely visible in the soft background — maybe a cutting board edge,
+a fruit bowl. Photorealistic, high resolution, natural slight lens distortion. No filters.
+No UI. No camera interface. No text overlays. No phone screen frame. Just the photo.
 ```
 
 ---

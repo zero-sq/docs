@@ -47,22 +47,31 @@ Viewers watch 2-3 loops before realizing it's repeating. ~6 seconds per loop.
 
 ## Templates (reusable across all videos)
 
-### Game screen template
+**Both templates must exist as actual PNG files** with transparent swap zones. Every video
+composites onto the SAME template files — this is what keeps the UI consistent across all
+30+ videos. If the templates don't exist yet, create them first before generating any videos.
+
+| Template file | Location |
+|--------------|----------|
+| `templates/game-screen.png` | Game screen UI overlay (9:16, transparent center) |
+| `templates/camera-screen.png` | Camera screen UI overlay (9:16, transparent background) |
+
+### Game screen template (`templates/game-screen.png`)
 - Dark background with grassy landscape at top
-- Pet name + "Lv.1" badge (top-left)
+- Pet name + "Lv.1" badge (top-left) — pet name is swapped per video
 - Play/volume controls (top-left)
 - Left sidebar: action icons (fire, controller, record)
 - Bottom bar: avatar, username (@zerocap), navigation icons
-- **Swap zone:** Center — replace with generated pet image
+- **Swap zone:** Center — transparent area, replace with generated pet image
 
-### Camera screen template
-- Full-screen camera viewfinder
+### Camera screen template (`templates/camera-screen.png`)
+- Full-screen camera viewfinder frame
 - Back arrow + play/volume controls (top-left)
 - Left sidebar: lock, people, globe icons
 - "Capture Tips" overlay at bottom-center
 - Large capture button (bottom-center)
 - Bottom bar: avatar, username (@zerocap)
-- **Swap zone:** Full background — replace with generated realistic photo
+- **Swap zone:** Full background — transparent, replace with generated realistic photo
 
 ---
 
@@ -180,12 +189,16 @@ Soft lighting, clean white background.
 
 **Aspect ratio:** 9:16 (portrait) — fills the camera screen template background for Shorts/Reels/TikTok
 
+**Important:** Generate ONLY the photo — no phone UI, no camera interface, no viewfinder
+frame, no buttons, no text. The camera UI comes from the template overlay in the composite
+step. The generated image is just the raw background photo.
+
 ```
-A realistic first-person smartphone camera photo of a [OBJECT] sitting on [SURFACE/LOCATION].
-Shot from a slightly overhead angle as if someone is holding their phone to take a photo.
-Natural indoor lighting, slight depth of field. The [OBJECT] is the clear focal point,
-centered in frame. Photorealistic, high resolution, mobile phone camera quality with
-natural slight lens distortion. No filters.
+A realistic photo of a [OBJECT] sitting on [SURFACE/LOCATION]. Shot from a slightly
+overhead angle, first-person perspective. Natural indoor lighting, slight depth of field.
+The [OBJECT] is the clear focal point, centered in frame. Photorealistic, high resolution,
+natural slight lens distortion. No filters. No UI. No camera interface. No text overlays.
+No phone screen frame. Just the photo.
 ```
 
 ### Transition A: camera → pet (Higgsfield)
@@ -257,6 +270,9 @@ All three platforms get the same video within the same day. Stagger by a few hou
 shorts-factory/
   README.md              ← this file (schema + templates)
   object-list.md         ← 30+ objects with brief notes
+  templates/
+    game-screen.png      ← game screen UI overlay (9:16, transparent center)
+    camera-screen.png    ← camera screen UI overlay (9:16, transparent background)
   videos/
     001-coke-zero/
       brief.md           ← all prompts, copy, and notes for this video
