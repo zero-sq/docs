@@ -4,9 +4,9 @@ Batch production system for 6-second looping short-form videos. 3 posts/day acro
 
 ## Format
 
-Benchmarked from @bark-loaf's toilet video (~10k views across platforms). Two-image loop using Higgsfield AI transitions.
+Benchmarked from @bark-loaf's toilet video (~10k views across platforms). Two-image loop with game-style transitions in CapCut.
 
-**The loop:** Game screen (pet) → Camera screen (real object) → Game screen (pet) → ...
+**The loop:** Camera screen (real object) → **sparkle/flash transition** → Game screen (pet) → **same transition** → Camera screen → ...
 
 Viewers watch 2-3 loops before realizing it's repeating. ~6 seconds per loop.
 
@@ -27,11 +27,12 @@ Viewers watch 2-3 loops before realizing it's repeating. ~6 seconds per loop.
 - **Framing:** Slightly overhead angle, as if holding phone to scan
 - **Note:** Will be composited onto camera UI template
 
-### 3. Two transitions (AI video)
-- **Tool:** Higgsfield (Kling 3.0 or Veo 3.0)
-- **Transition A (camera → pet):** Real object morphs/dissolves into the pet on game screen
-- **Transition B (pet → camera):** Pet morphs back into the real object view — this closes the loop
-- **Duration:** ~3 seconds each = ~6 seconds total
+### 3. Transition effect (CapCut)
+- **Tool:** CapCut built-in transitions — no AI video needed
+- **Style:** Game-style effect — sparkle burst, flash, glitch, or particle pop
+- **Use the same transition** for both cuts (camera→game and game→camera) for consistency
+- **Duration:** ~0.3-0.5 seconds per transition
+- **Recommended CapCut effects:** "Sparkle", "Flash White", "Glitch", or "Particle" from the transition library
 
 ### 4. Text overlays (CapCut)
 - **On game screen:** "this was a [object]" (white text, black pill background, center-top)
@@ -92,19 +93,15 @@ For each object in the list:
    → python3 scripts/composite.py videos/XXX/pet.png templates/game-screen.png videos/XXX/game-final.png
    → Or batch all videos: see scripts/composite.py header for loop command
 
-4. GENERATE TRANSITIONS (Higgsfield)
-   → Upload game-final.png + camera-final.png
-   → Transition A prompt: camera-final → game-final
-   → Transition B prompt: game-final → camera-final
-   → Save as: transition-a.mp4, transition-b.mp4
-
-5. EDIT IN CAPCUT
-   → Stitch: transition-a.mp4 + transition-b.mp4
+4. EDIT IN CAPCUT
+   → Import camera-final.png + game-final.png as static images (~3 sec each)
+   → Add game-style transition between them (sparkle/flash/glitch, 0.3-0.5s)
+   → Use the SAME transition for both cuts (camera→game and game→camera)
    → Add text overlays
    → Add caption bar
    → Export as loop-friendly MP4 (9:16)
 
-6. POST
+5. POST
    → Upload to YT Shorts, IG Reels, TikTok
    → Copy-paste title, description, first comment from video brief
 ```
@@ -227,23 +224,23 @@ badge, menu, action icons, bottom nav bar) exactly as they are. 9:16 portrait.
 **Note:** You MUST describe the pet's specific visual features — don't just say "the
 character" or "the pet." The model needs to know what it's placing.
 
-### Transition A: camera → pet (Higgsfield)
+### Transition effect (CapCut)
 
+No AI video generation needed. Use CapCut's built-in transition effects between the two
+static screens (camera-final.png and game-final.png).
+
+**CapCut timeline:**
 ```
-The real-life [OBJECT] in the center of the frame magically transforms into a cute plushy
-creature. The object glows softly, particles swirl around it, and it morphs smoothly into
-the 3D pet character. The background shifts from a realistic room to a dark game environment
-with grass. Smooth, magical transformation. 3 seconds.
+[camera-final.png ~3s] → [transition 0.3-0.5s] → [game-final.png ~3s] → [transition 0.3-0.5s] → loop
 ```
 
-### Transition B: pet → camera (Higgsfield)
+**Recommended transitions** (pick one and use it consistently across all videos):
+- Sparkle burst — game-like, magical feel
+- Flash white — clean, fast, punchy
+- Glitch — tech/digital vibe
+- Particle pop — playful, fun
 
-```
-The cute plushy pet creature in the center of a dark game world reverses back into the
-real-life [OBJECT]. The creature dissolves with sparkle particles, the game background
-fades into a realistic indoor environment, and the original [OBJECT] re-appears on
-[SURFACE]. Smooth reverse transformation. 3 seconds.
-```
+The transition should feel like a game UI event, not a realistic transformation.
 
 ---
 
@@ -295,7 +292,7 @@ All three platforms get the same video within the same day. Stagger by a few hou
 ```
 shorts-factory/
   README.md              ← this file (schema + templates)
-  object-list.md         ← 30+ objects with brief notes
+  object-list.md         ← 50 objects with brief notes
   scripts/
     composite.py         ← composites photo + UI template overlay (requires Pillow)
   templates/
@@ -308,9 +305,7 @@ shorts-factory/
       camera.png         ← generated camera image
       game-final.png     ← composited game screen
       camera-final.png   ← composited camera screen
-      transition-a.mp4   ← camera → pet
-      transition-b.mp4   ← pet → camera
-      final.mp4          ← exported from CapCut
+      final.mp4          ← exported from CapCut (static images + transition effect)
     002-rubber-duck/
       ...
     003-sneaker/

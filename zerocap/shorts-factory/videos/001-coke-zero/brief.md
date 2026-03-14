@@ -80,25 +80,13 @@ badge, menu, action icons, bottom nav bar) exactly as they are. 9:16 portrait.
 
 ---
 
-## Transition prompts (Higgsfield — Kling 3.0 or Veo 3.0)
+## Transition (CapCut)
 
-### Transition A: camera → pet
-```
-The black soda can sitting on the kitchen counter begins to glow with a soft red and black
-aura. Tiny fizz bubbles rise from the can as it starts morphing. The can's shape rounds
-out, stubby limbs sprout, and a cute face appears. The kitchen background dims and shifts
-to a dark game world with grass. The can has fully transformed into an adorable black
-plushy creature with red markings and fizzy bubble hair. Smooth magical transformation,
-3 seconds.
-```
+Use CapCut built-in transition between camera-final.png and game-final.png.
+Same transition effect for both cuts. See README for recommended effects.
 
-### Transition B: pet → camera (loop closer)
 ```
-The cute black plushy soda creature standing on grass in a dark game world starts to
-shimmer. Fizz bubbles swirl around it as its limbs retract, face fades, and body elongates
-back into a cylindrical shape. The dark game background brightens into a warm kitchen. The
-creature has reversed back into a black soda can sitting on a light wood counter. Smooth
-reverse transformation, 3 seconds.
+[camera-final.png ~3s] → [sparkle/flash 0.3-0.5s] → [game-final.png ~3s] → [same transition] → loop
 ```
 
 ---
@@ -145,9 +133,7 @@ I scanned my coke zero and this happened
 - [ ] Generate camera image (Nano Banana)
 - [ ] Composite pet onto game screen template → `game-final.png`
 - [ ] Composite camera photo onto camera screen template → `camera-final.png`
-- [ ] Generate Transition A in Higgsfield → `transition-a.mp4`
-- [ ] Generate Transition B in Higgsfield → `transition-b.mp4`
-- [ ] Stitch + overlays in CapCut → `final.mp4`
+- [ ] Edit in CapCut: import both screens, add transition + text overlays → `final.mp4`
 - [ ] Post to TikTok
 - [ ] Post to Instagram Reels
 - [ ] Post to YouTube Shorts

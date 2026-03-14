@@ -87,25 +87,13 @@ icons, bottom nav bar) exactly as they are. 9:16 portrait.
 
 ---
 
-## Transition prompts (Higgsfield — Kling 3.0 or Veo 3.0)
+## Transition (CapCut)
 
-### Transition A: camera → pet
-```
-The white sneaker sitting on the bedroom floor begins to glow with a soft white aura.
-The laces lift and twitch like ears coming alive. The shoe's shape compresses and rounds
-out, chunky legs sprout from the sole, and a determined little face appears on the toe box.
-The bedroom background dims and shifts to a dark game world with grass. The sneaker has
-fully transformed into an adorable white plush rabbit creature in a runner's crouch, lace
-ears swept back. Smooth magical transformation, 3 seconds.
-```
+Use CapCut built-in transition between camera-final.png and game-final.png.
+Same transition effect for both cuts. See README for recommended effects.
 
-### Transition B: pet → camera (loop closer)
 ```
-The cute white plush rabbit creature crouched on grass in a dark game world starts to
-shimmer. Its lace ears stiffen and flatten, its legs merge back into a sole shape, and its
-face smooths into a plain toe box. The dark game background brightens into a warm bedroom.
-The creature has reversed back into a white sneaker sitting on a wooden floor with untied
-laces. Smooth reverse transformation, 3 seconds.
+[camera-final.png ~3s] → [sparkle/flash 0.3-0.5s] → [game-final.png ~3s] → [same transition] → loop
 ```
 
 ---
@@ -152,9 +140,7 @@ I scanned my sneaker and this happened
 - [ ] Generate camera image (Nano Banana)
 - [ ] Composite pet onto game screen template → `game-final.png`
 - [ ] Composite camera photo onto camera screen template → `camera-final.png`
-- [ ] Generate Transition A in Higgsfield → `transition-a.mp4`
-- [ ] Generate Transition B in Higgsfield → `transition-b.mp4`
-- [ ] Stitch + overlays in CapCut → `final.mp4`
+- [ ] Edit in CapCut: import both screens, add transition + text overlays → `final.mp4`
 - [ ] Post to TikTok
 - [ ] Post to Instagram Reels
 - [ ] Post to YouTube Shorts
